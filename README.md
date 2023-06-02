@@ -1,4 +1,4 @@
-# 18-social-media
+# Progressive Web Applications
 
 ## Table of Contents
 
